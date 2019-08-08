@@ -1,6 +1,6 @@
 # Papi
 
-A small API focused web framework.
+A small API focused web framework. Based off the ideas of [Flask](https://palletsprojects.com/p/flask/) and [Hapi](https://hapi.dev/)
 
 ```
 from papi import Papi
